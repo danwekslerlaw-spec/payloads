@@ -1,0 +1,2 @@
+# payloads
+Botnet payload storage
